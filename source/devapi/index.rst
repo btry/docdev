@@ -8,5 +8,6 @@ Apart from the current documentation, you can also check the `full PHP documenta
 
    querydb
    dbiterator
+   dbmodel
    rules
    translations
