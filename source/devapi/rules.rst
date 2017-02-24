@@ -88,6 +88,7 @@ Here is the minimal setup to have a working set.
 You need to add the two classes for describing you new sub_type.
 
 **inc/rulemytype.class.php**
+
 .. code-block:: php
 
     <?php
@@ -157,6 +158,7 @@ You need to add the two classes for describing you new sub_type.
     }
 
 **inc/rulemytypecollection.class.php**
+
 .. code-block:: php
 
     <?php
